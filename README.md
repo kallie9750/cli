@@ -1,4 +1,4 @@
-# Getting started with the Snyk CLI
+# Getting started with the Snyk CLI - Update
 
 ## Introduction to Snyk and the Snyk CLI
 
